@@ -1,0 +1,3 @@
+/mnt/d/Desktop/project/mini-redis/build/CMakeFiles/mini-redis.dir
+/mnt/d/Desktop/project/mini-redis/build/CMakeFiles/edit_cache.dir
+/mnt/d/Desktop/project/mini-redis/build/CMakeFiles/rebuild_cache.dir
